@@ -1,0 +1,521 @@
+year,geography,population,grouping
+2010,Auburn RGC,1360,All
+2010,Ballard-Interbay MIC,1259,All
+2010,Bellevue RGC,6823,All
+2010,Bothell Canyon Park RGC,853,All
+2010,Bremerton RGC,5562,All
+2010,Burien RGC,3043,All
+2010,Cascade MIC,1452,All
+2010,Duwamish MIC,1531,All
+2010,Everett RGC,6231,All
+2010,Federal Way RGC,112,All
+2010,Frederickson MIC,2213,All
+2010,Issaquah RGC,79,All
+2010,Kent MIC MIC,997,All
+2010,Kent RGC,1481,All
+2010,Kirkland Totem Lake RGC,5182,All
+2010,Lakewood RGC,885,All
+2010,Lynnwood RGC,2384,All
+2010,North Tukwila MIC,234,All
+2010,Paine Field / Boeing Everett MIC,2016,All
+2010,Port of Tacoma MIC,1299,All
+2010,Puget Sound Industrial Center- Bremerton MIC,119,All
+2010,Puyallup Downtown RGC,1300,All
+2010,Puyallup South Hill RGC,2839,All
+2010,Redmond Downtown RGC,3319,All
+2010,Redmond-Overlake RGC,1745,All
+2010,Renton RGC,3141,All
+2010,SeaTac RGC,8660,All
+2010,Seattle Downtown RGC,26830,All
+2010,Seattle First Hill/Capitol Hill RGC,35743,All
+2010,Seattle Northgate RGC,5481,All
+2010,Seattle South Lake Union RGC,3749,All
+2010,Seattle University Community RGC,22674,All
+2010,Seattle Uptown RGC,6878,All
+2010,Silverdale RGC,2058,All
+2010,Sumner Pacific MIC,308,All
+2010,Tacoma Downtown RGC,12926,All
+2010,Tacoma Mall RGC,4046,All
+2010,Tukwila RGC,9,All
+2010,University Place RGC,4372,All
+2011,Auburn RGC,1361,All
+2011,Ballard-Interbay MIC,1260,All
+2011,Bellevue RGC,7780,All
+2011,Bothell Canyon Park RGC,870,All
+2011,Bremerton RGC,6533,All
+2011,Burien RGC,3007,All
+2011,Cascade MIC,1452,All
+2011,Duwamish MIC,1527,All
+2011,Everett RGC,6254,All
+2011,Federal Way RGC,112,All
+2011,Frederickson MIC,2298,All
+2011,Issaquah RGC,84,All
+2011,Kent MIC MIC,981,All
+2011,Kent RGC,1561,All
+2011,Kirkland Totem Lake RGC,5183,All
+2011,Lakewood RGC,885,All
+2011,Lynnwood RGC,2387,All
+2011,North Tukwila MIC,235,All
+2011,Paine Field / Boeing Everett MIC,1992,All
+2011,Port of Tacoma MIC,1299,All
+2011,Puget Sound Industrial Center- Bremerton MIC,119,All
+2011,Puyallup Downtown RGC,1297,All
+2011,Puyallup South Hill RGC,2839,All
+2011,Redmond Downtown RGC,3820,All
+2011,Redmond-Overlake RGC,1747,All
+2011,Renton RGC,4082,All
+2011,SeaTac RGC,8731,All
+2011,Seattle Downtown RGC,27072,All
+2011,Seattle First Hill/Capitol Hill RGC,36475,All
+2011,Seattle Northgate RGC,5478,All
+2011,Seattle South Lake Union RGC,3874,All
+2011,Seattle University Community RGC,23107,All
+2011,Seattle Uptown RGC,6889,All
+2011,Silverdale RGC,2080,All
+2011,Sumner Pacific MIC,291,All
+2011,Tacoma Downtown RGC,13068,All
+2011,Tacoma Mall RGC,4047,All
+2011,Tukwila RGC,9,All
+2011,University Place RGC,4372,All
+2012,Auburn RGC,1369,All
+2012,Ballard-Interbay MIC,1260,All
+2012,Bellevue RGC,8328,All
+2012,Bothell Canyon Park RGC,873,All
+2012,Bremerton RGC,7143,All
+2012,Burien RGC,2999,All
+2012,Cascade MIC,1449,All
+2012,Duwamish MIC,1529,All
+2012,Everett RGC,6472,All
+2012,Federal Way RGC,110,All
+2012,Frederickson MIC,2397,All
+2012,Issaquah RGC,90,All
+2012,Kent MIC MIC,992,All
+2012,Kent RGC,1527,All
+2012,Kirkland Totem Lake RGC,5210,All
+2012,Lakewood RGC,887,All
+2012,Lynnwood RGC,2386,All
+2012,North Tukwila MIC,227,All
+2012,Paine Field / Boeing Everett MIC,1991,All
+2012,Port of Tacoma MIC,1299,All
+2012,Puget Sound Industrial Center- Bremerton MIC,118,All
+2012,Puyallup Downtown RGC,1298,All
+2012,Puyallup South Hill RGC,2843,All
+2012,Redmond Downtown RGC,3910,All
+2012,Redmond-Overlake RGC,1741,All
+2012,Renton RGC,4295,All
+2012,SeaTac RGC,8647,All
+2012,Seattle Downtown RGC,27611,All
+2012,Seattle First Hill/Capitol Hill RGC,36557,All
+2012,Seattle Northgate RGC,5487,All
+2012,Seattle South Lake Union RGC,3891,All
+2012,Seattle University Community RGC,23586,All
+2012,Seattle Uptown RGC,7249,All
+2012,Silverdale RGC,2064,All
+2012,Sumner Pacific MIC,291,All
+2012,Tacoma Downtown RGC,13306,All
+2012,Tacoma Mall RGC,4068,All
+2012,Tukwila RGC,9,All
+2012,University Place RGC,4385,All
+2013,Auburn RGC,1382,All
+2013,Ballard-Interbay MIC,1255,All
+2013,Bellevue RGC,8678,All
+2013,Bothell Canyon Park RGC,891,All
+2013,Bremerton RGC,5353,All
+2013,Burien RGC,3013,All
+2013,Cascade MIC,1453,All
+2013,Duwamish MIC,1529,All
+2013,Everett RGC,6826,All
+2013,Federal Way RGC,110,All
+2013,Frederickson MIC,2503,All
+2013,Issaquah RGC,88,All
+2013,Kent MIC MIC,1018,All
+2013,Kent RGC,1522,All
+2013,Kirkland Totem Lake RGC,5244,All
+2013,Lakewood RGC,888,All
+2013,Lynnwood RGC,2391,All
+2013,North Tukwila MIC,228,All
+2013,Paine Field / Boeing Everett MIC,2004,All
+2013,Port of Tacoma MIC,1299,All
+2013,Puget Sound Industrial Center- Bremerton MIC,119,All
+2013,Puyallup Downtown RGC,1278,All
+2013,Puyallup South Hill RGC,2846,All
+2013,Redmond Downtown RGC,3969,All
+2013,Redmond-Overlake RGC,1750,All
+2013,Renton RGC,4393,All
+2013,SeaTac RGC,8690,All
+2013,Seattle Downtown RGC,27911,All
+2013,Seattle First Hill/Capitol Hill RGC,38337,All
+2013,Seattle Northgate RGC,5523,All
+2013,Seattle South Lake Union RGC,4498,All
+2013,Seattle University Community RGC,23991,All
+2013,Seattle Uptown RGC,8167,All
+2013,Silverdale RGC,2082,All
+2013,Sumner Pacific MIC,291,All
+2013,Tacoma Downtown RGC,13313,All
+2013,Tacoma Mall RGC,4357,All
+2013,Tukwila RGC,9,All
+2013,University Place RGC,4391,All
+2014,Auburn RGC,1400,All
+2014,Ballard-Interbay MIC,1258,All
+2014,Bellevue RGC,9027,All
+2014,Bothell Canyon Park RGC,896,All
+2014,Bremerton RGC,5854,All
+2014,Burien RGC,3016,All
+2014,Cascade MIC,1455,All
+2014,Duwamish MIC,1542,All
+2014,Everett RGC,6864,All
+2014,Federal Way RGC,111,All
+2014,Frederickson MIC,2655,All
+2014,Issaquah RGC,79,All
+2014,Kent MIC MIC,1022,All
+2014,Kent RGC,1513,All
+2014,Kirkland Totem Lake RGC,5256,All
+2014,Lakewood RGC,890,All
+2014,Lynnwood RGC,2393,All
+2014,North Tukwila MIC,228,All
+2014,Paine Field / Boeing Everett MIC,2022,All
+2014,Port of Tacoma MIC,1299,All
+2014,Puget Sound Industrial Center- Bremerton MIC,119,All
+2014,Puyallup Downtown RGC,1282,All
+2014,Puyallup South Hill RGC,2866,All
+2014,Redmond Downtown RGC,4843,All
+2014,Redmond-Overlake RGC,1781,All
+2014,Renton RGC,4455,All
+2014,SeaTac RGC,8799,All
+2014,Seattle Downtown RGC,30233,All
+2014,Seattle First Hill/Capitol Hill RGC,39855,All
+2014,Seattle Northgate RGC,5578,All
+2014,Seattle South Lake Union RGC,5488,All
+2014,Seattle University Community RGC,25380,All
+2014,Seattle Uptown RGC,8396,All
+2014,Silverdale RGC,2085,All
+2014,Sumner Pacific MIC,295,All
+2014,Tacoma Downtown RGC,13204,All
+2014,Tacoma Mall RGC,4601,All
+2014,Tukwila RGC,9,All
+2014,University Place RGC,4397,All
+2015,Auburn RGC,1403,All
+2015,Ballard-Interbay MIC,1343,All
+2015,Bellevue RGC,9530,All
+2015,Bothell Canyon Park RGC,917,All
+2015,Bremerton RGC,6539,All
+2015,Burien RGC,3033,All
+2015,Cascade MIC,1479,All
+2015,Duwamish MIC,1558,All
+2015,Everett RGC,6915,All
+2015,Federal Way RGC,111,All
+2015,Frederickson MIC,2811,All
+2015,Issaquah RGC,79,All
+2015,Kent MIC MIC,1028,All
+2015,Kent RGC,1503,All
+2015,Kirkland Totem Lake RGC,5296,All
+2015,Lakewood RGC,884,All
+2015,Lynnwood RGC,2421,All
+2015,North Tukwila MIC,230,All
+2015,Paine Field / Boeing Everett MIC,2154,All
+2015,Port of Tacoma MIC,1325,All
+2015,Puget Sound Industrial Center- Bremerton MIC,120,All
+2015,Puyallup Downtown RGC,1288,All
+2015,Puyallup South Hill RGC,2872,All
+2015,Redmond Downtown RGC,5556,All
+2015,Redmond-Overlake RGC,1793,All
+2015,Renton RGC,4496,All
+2015,SeaTac RGC,8747,All
+2015,Seattle Downtown RGC,34334,All
+2015,Seattle First Hill/Capitol Hill RGC,41796,All
+2015,Seattle Northgate RGC,6073,All
+2015,Seattle South Lake Union RGC,6480,All
+2015,Seattle University Community RGC,26732,All
+2015,Seattle Uptown RGC,9454,All
+2015,Silverdale RGC,2088,All
+2015,Sumner Pacific MIC,288,All
+2015,Tacoma Downtown RGC,13338,All
+2015,Tacoma Mall RGC,4740,All
+2015,Tukwila RGC,8,All
+2015,University Place RGC,4568,All
+2016,Auburn RGC,1427,All
+2016,Ballard-Interbay MIC,1364,All
+2016,Bellevue RGC,10239,All
+2016,Bothell Canyon Park RGC,927,All
+2016,Bremerton RGC,6708,All
+2016,Burien RGC,3127,All
+2016,Cascade MIC,1504,All
+2016,Duwamish MIC,1589,All
+2016,Everett RGC,7544,All
+2016,Federal Way RGC,124,All
+2016,Frederickson MIC,2924,All
+2016,Issaquah RGC,86,All
+2016,Kent MIC MIC,1036,All
+2016,Kent RGC,1510,All
+2016,Kirkland Totem Lake RGC,5352,All
+2016,Lakewood RGC,895,All
+2016,Lynnwood RGC,2449,All
+2016,North Tukwila MIC,234,All
+2016,Paine Field / Boeing Everett MIC,2199,All
+2016,Port of Tacoma MIC,1326,All
+2016,Puget Sound Industrial Center- Bremerton MIC,120,All
+2016,Puyallup Downtown RGC,1304,All
+2016,Puyallup South Hill RGC,2914,All
+2016,Redmond Downtown RGC,5971,All
+2016,Redmond-Overlake RGC,1811,All
+2016,Renton RGC,4572,All
+2016,SeaTac RGC,8792,All
+2016,Seattle Downtown RGC,36418,All
+2016,Seattle First Hill/Capitol Hill RGC,45873,All
+2016,Seattle Northgate RGC,6262,All
+2016,Seattle South Lake Union RGC,7288,All
+2016,Seattle University Community RGC,28316,All
+2016,Seattle Uptown RGC,10172,All
+2016,Silverdale RGC,2103,All
+2016,Sumner Pacific MIC,276,All
+2016,Tacoma Downtown RGC,13797,All
+2016,Tacoma Mall RGC,4833,All
+2016,Tukwila RGC,9,All
+2016,University Place RGC,4806,All
+2017,Auburn RGC,1445,All
+2017,Ballard-Interbay MIC,1407,All
+2017,Bellevue RGC,10990,All
+2017,Bothell Canyon Park RGC,936,All
+2017,Bremerton RGC,6849,All
+2017,Burien RGC,3185,All
+2017,Cascade MIC,1506,All
+2017,Duwamish MIC,1658,All
+2017,Everett RGC,7577,All
+2017,Federal Way RGC,127,All
+2017,Frederickson MIC,3113,All
+2017,Issaquah RGC,85,All
+2017,Kent MIC MIC,1048,All
+2017,Kent RGC,1808,All
+2017,Kirkland Totem Lake RGC,5423,All
+2017,Lakewood RGC,894,All
+2017,Lynnwood RGC,2488,All
+2017,North Tukwila MIC,240,All
+2017,Paine Field / Boeing Everett MIC,2223,All
+2017,Port of Tacoma MIC,1326,All
+2017,Puget Sound Industrial Center- Bremerton MIC,121,All
+2017,Puyallup Downtown RGC,1316,All
+2017,Puyallup South Hill RGC,2944,All
+2017,Redmond Downtown RGC,6324,All
+2017,Redmond-Overlake RGC,2328,All
+2017,Renton RGC,4763,All
+2017,SeaTac RGC,9401,All
+2017,Seattle Downtown RGC,39618,All
+2017,Seattle First Hill/Capitol Hill RGC,48605,All
+2017,Seattle Northgate RGC,6414,All
+2017,Seattle South Lake Union RGC,8782,All
+2017,Seattle University Community RGC,29641,All
+2017,Seattle Uptown RGC,10867,All
+2017,Silverdale RGC,2120,All
+2017,Sumner Pacific MIC,273,All
+2017,Tacoma Downtown RGC,14116,All
+2017,Tacoma Mall RGC,4988,All
+2017,Tukwila RGC,3,All
+2017,University Place RGC,4858,All
+2018,Auburn RGC,1429,All
+2018,Ballard-Interbay MIC,1406,All
+2018,Bellevue RGC,11527,All
+2018,Bothell Canyon Park RGC,949,All
+2018,Bremerton RGC,6871,All
+2018,Burien RGC,3658,All
+2018,Cascade MIC,1517,All
+2018,Duwamish MIC,1697,All
+2018,Everett RGC,7713,All
+2018,Federal Way RGC,128,All
+2018,Frederickson MIC,3210,All
+2018,Issaquah RGC,127,All
+2018,Kent MIC MIC,1051,All
+2018,Kent RGC,2012,All
+2018,Kirkland Totem Lake RGC,5585,All
+2018,Lakewood RGC,896,All
+2018,Lynnwood RGC,3148,All
+2018,North Tukwila MIC,241,All
+2018,Paine Field / Boeing Everett MIC,2260,All
+2018,Port of Tacoma MIC,1311,All
+2018,Puget Sound Industrial Center- Bremerton MIC,121,All
+2018,Puyallup Downtown RGC,1327,All
+2018,Puyallup South Hill RGC,2981,All
+2018,Redmond Downtown RGC,6602,All
+2018,Redmond-Overlake RGC,2751,All
+2018,Renton RGC,4993,All
+2018,SeaTac RGC,9485,All
+2018,Seattle Downtown RGC,42641,All
+2018,Seattle First Hill/Capitol Hill RGC,50386,All
+2018,Seattle Northgate RGC,6620,All
+2018,Seattle South Lake Union RGC,10593,All
+2018,Seattle University Community RGC,30672,All
+2018,Seattle Uptown RGC,11121,All
+2018,Silverdale RGC,2113,All
+2018,Sumner Pacific MIC,243,All
+2018,Tacoma Downtown RGC,14583,All
+2018,Tacoma Mall RGC,5055,All
+2018,Tukwila RGC,3,All
+2018,University Place RGC,4856,All
+2019,Auburn RGC,1429,All
+2019,Ballard-Interbay MIC,1407,All
+2019,Bellevue RGC,12018,All
+2019,Bothell Canyon Park RGC,994,All
+2019,Bremerton RGC,7003,All
+2019,Burien RGC,3704,All
+2019,Cascade MIC,1515,All
+2019,Duwamish MIC,1701,All
+2019,Everett RGC,7561,All
+2019,Federal Way RGC,195,All
+2019,Frederickson MIC,3266,All
+2019,Issaquah RGC,161,All
+2019,Kent MIC MIC,1045,All
+2019,Kent RGC,2207,All
+2019,Kirkland Totem Lake RGC,5738,All
+2019,Lakewood RGC,901,All
+2019,Lynnwood RGC,3499,All
+2019,North Tukwila MIC,260,All
+2019,Paine Field / Boeing Everett MIC,2277,All
+2019,Port of Tacoma MIC,1329,All
+2019,Puget Sound Industrial Center- Bremerton MIC,122,All
+2019,Puyallup Downtown RGC,1331,All
+2019,Puyallup South Hill RGC,3037,All
+2019,Redmond Downtown RGC,6922,All
+2019,Redmond-Overlake RGC,3422,All
+2019,Renton RGC,5007,All
+2019,SeaTac RGC,9474,All
+2019,Seattle Downtown RGC,44673,All
+2019,Seattle First Hill/Capitol Hill RGC,52426,All
+2019,Seattle Northgate RGC,6783,All
+2019,Seattle South Lake Union RGC,13287,All
+2019,Seattle University Community RGC,32441,All
+2019,Seattle Uptown RGC,11753,All
+2019,Silverdale RGC,2145,All
+2019,Sumner Pacific MIC,234,All
+2019,Tacoma Downtown RGC,14850,All
+2019,Tacoma Mall RGC,5153,All
+2019,Tukwila RGC,149,All
+2019,University Place RGC,4882,All
+2020,Auburn RGC,1910,All
+2020,Ballard-Interbay MIC,1481,All
+2020,Bellevue RGC,14367,All
+2020,Bothell Canyon Park RGC,801,All
+2020,Bremerton RGC,6099,All
+2020,Burien RGC,4074,All
+2020,Cascade MIC,1702,All
+2020,Duwamish MIC,2656,All
+2020,Everett RGC,6906,All
+2020,Federal Way RGC,377,All
+2020,Frederickson MIC,1904,All
+2020,Issaquah RGC,497,All
+2020,Kent MIC MIC,1359,All
+2020,Kent RGC,2340,All
+2020,Kirkland Totem Lake RGC,6205,All
+2020,Lakewood RGC,1170,All
+2020,Lynnwood RGC,3432,All
+2020,North Tukwila MIC,206,All
+2020,Paine Field / Boeing Everett MIC,2580,All
+2020,Port of Tacoma MIC,1070,All
+2020,Puget Sound Industrial Center- Bremerton MIC,124,All
+2020,Puyallup Downtown RGC,1534,All
+2020,Puyallup South Hill RGC,3599,All
+2020,Redmond Downtown RGC,8499,All
+2020,Redmond-Overlake RGC,3587,All
+2020,Renton RGC,4898,All
+2020,SeaTac RGC,10750,All
+2020,Seattle Downtown RGC,41850,All
+2020,Seattle First Hill/Capitol Hill RGC,49467,All
+2020,Seattle Northgate RGC,7337,All
+2020,Seattle South Lake Union RGC,12853,All
+2020,Seattle University Community RGC,30190,All
+2020,Seattle Uptown RGC,11536,All
+2020,Silverdale RGC,2236,All
+2020,Sumner Pacific MIC,278,All
+2020,Tacoma Downtown RGC,16176,All
+2020,Tacoma Mall RGC,6284,All
+2020,Tukwila RGC,494,All
+2020,University Place RGC,5424,All
+2021,Auburn RGC,1910,All
+2021,Ballard-Interbay MIC,1553,All
+2021,Bellevue RGC,14428,All
+2021,Bothell Canyon Park RGC,807,All
+2021,Bremerton RGC,5956,All
+2021,Burien RGC,4095,All
+2021,Cascade MIC,1696,All
+2021,Duwamish MIC,2639,All
+2021,Everett RGC,6661,All
+2021,Federal Way RGC,876,All
+2021,Frederickson MIC,2041,All
+2021,Issaquah RGC,510,All
+2021,Kent MIC MIC,1356,All
+2021,Kent RGC,2788,All
+2021,Kirkland Totem Lake RGC,6291,All
+2021,Lakewood RGC,1173,All
+2021,Lynnwood RGC,3434,All
+2021,North Tukwila MIC,206,All
+2021,Paine Field / Boeing Everett MIC,2595,All
+2021,Port of Tacoma MIC,1066,All
+2021,Puget Sound Industrial Center- Bremerton MIC,121,All
+2021,Puyallup Downtown RGC,1533,All
+2021,Puyallup South Hill RGC,3701,All
+2021,Redmond Downtown RGC,8803,All
+2021,Redmond-Overlake RGC,3713,All
+2021,Renton RGC,4903,All
+2021,SeaTac RGC,11356,All
+2021,Seattle Downtown RGC,42780,All
+2021,Seattle First Hill/Capitol Hill RGC,50677,All
+2021,Seattle Northgate RGC,7354,All
+2021,Seattle South Lake Union RGC,13008,All
+2021,Seattle University Community RGC,24881,All
+2021,Seattle Uptown RGC,11893,All
+2021,Silverdale RGC,2234,All
+2021,Sumner Pacific MIC,219,All
+2021,Tacoma Downtown RGC,15890,All
+2021,Tacoma Mall RGC,6304,All
+2021,Tukwila RGC,589,All
+2021,University Place RGC,5488,All
+2022,Auburn RGC,2521,All
+2022,Ballard-Interbay MIC,1554,All
+2022,Bellevue RGC,14534,All
+2022,Bothell Canyon Park RGC,825,All
+2022,Bremerton RGC,6793,All
+2022,Burien RGC,4102,All
+2022,Cascade MIC,1695,All
+2022,Duwamish MIC,2667,All
+2022,Everett RGC,6972,All
+2022,Federal Way RGC,936,All
+2022,Frederickson MIC,2045,All
+2022,Issaquah RGC,493,All
+2022,Kent MIC MIC,1353,All
+2022,Kent RGC,2696,All
+2022,Kirkland Totem Lake RGC,6609,All
+2022,Lakewood RGC,1311,All
+2022,Lynnwood RGC,3909,All
+2022,North Tukwila MIC,217,All
+2022,Paine Field / Boeing Everett MIC,2747,All
+2022,Port of Tacoma MIC,1065,All
+2022,Puget Sound Industrial Center- Bremerton MIC,121,All
+2022,Puyallup Downtown RGC,1534,All
+2022,Puyallup South Hill RGC,3697,All
+2022,Redmond Downtown RGC,8821,All
+2022,Redmond-Overlake RGC,4650,All
+2022,Renton RGC,4900,All
+2022,SeaTac RGC,11279,All
+2022,Seattle Downtown RGC,44474,All
+2022,Seattle First Hill/Capitol Hill RGC,53721,All
+2022,Seattle Northgate RGC,7966,All
+2022,Seattle South Lake Union RGC,12954,All
+2022,Seattle University Community RGC,33838,All
+2022,Seattle Uptown RGC,12235,All
+2022,Silverdale RGC,2233,All
+2022,Sumner Pacific MIC,214,All
+2022,Tacoma Downtown RGC,16807,All
+2022,Tacoma Mall RGC,6338,All
+2022,Tukwila RGC,619,All
+2022,University Place RGC,5679,All
+2010,Not in a Center,3499728,All
+2011,Not in a Center,3519172,All
+2012,Not in a Center,3542689,All
+2013,Not in a Center,3577285,All
+2014,Not in a Center,3622982,All
+2015,Not in a Center,3673371,All
+2016,Not in a Center,3746821,All
+2017,Not in a Center,3814972,All
+2018,Not in a Center,3870760,All
+2019,Not in a Center,3927081,All
+2020,Not in a Center,4015364,All
+2021,Not in a Center,4053201,All
+2022,Not in a Center,4086157,All

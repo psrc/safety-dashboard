@@ -1,0 +1,496 @@
+year,geography,population,grouping
+1990,King County,1507305,All
+1991,King County,1549991,All
+1992,King County,1570997,All
+1993,King County,1590603,All
+1994,King County,1609529,All
+1995,King County,1625241,All
+1996,King County,1640249,All
+1997,King County,1659106,All
+1998,King County,1686266,All
+1999,King County,1712122,All
+2000,King County,1737046,All
+2001,King County,1755487,All
+2002,King County,1777514,All
+2003,King County,1788082,All
+2004,King County,1800783,All
+2005,King County,1814999,All
+2006,King County,1845209,All
+2007,King County,1871098,All
+2008,King County,1891125,All
+2009,King County,1909205,All
+2010,King County,1931249,All
+2011,King County,1945686,All
+2012,King County,1956755,All
+2013,King County,1983550,All
+2014,King County,2021027,All
+2015,King County,2061981,All
+2016,King County,2118958,All
+2017,King County,2149910,All
+2018,King County,2187460,All
+2019,King County,2227755,All
+2020,King County,2269675,All
+2021,King County,2287050,All
+2022,King County,2317700,All
+1990,Kitsap County,189731,All
+1991,Kitsap County,196926,All
+1992,Kitsap County,202113,All
+1993,Kitsap County,207976,All
+1994,Kitsap County,212429,All
+1995,Kitsap County,218308,All
+1996,Kitsap County,221849,All
+1997,Kitsap County,225251,All
+1998,Kitsap County,227179,All
+1999,Kitsap County,229569,All
+2000,Kitsap County,231969,All
+2001,Kitsap County,233918,All
+2002,Kitsap County,236656,All
+2003,Kitsap County,239443,All
+2004,Kitsap County,240777,All
+2005,Kitsap County,239819,All
+2006,Kitsap County,244049,All
+2007,Kitsap County,247476,All
+2008,Kitsap County,249905,All
+2009,Kitsap County,251249,All
+2010,Kitsap County,251133,All
+2011,Kitsap County,250422,All
+2012,Kitsap County,252907,All
+2013,Kitsap County,253217,All
+2014,Kitsap County,255971,All
+2015,Kitsap County,259034,All
+2016,Kitsap County,263471,All
+2017,Kitsap County,265268,All
+2018,Kitsap County,269280,All
+2019,Kitsap County,272342,All
+2020,Kitsap County,275611,All
+2021,Kitsap County,277700,All
+2022,Kitsap County,280900,All
+1990,Pierce County,586203,All
+1991,Pierce County,598065,All
+1992,Pierce County,610619,All
+1993,Pierce County,623697,All
+1994,Pierce County,636802,All
+1995,Pierce County,649284,All
+1996,Pierce County,653212,All
+1997,Pierce County,664070,All
+1998,Pierce County,675651,All
+1999,Pierce County,688884,All
+2000,Pierce County,700818,All
+2001,Pierce County,709288,All
+2002,Pierce County,721124,All
+2003,Pierce County,731969,All
+2004,Pierce County,743701,All
+2005,Pierce County,756919,All
+2006,Pierce County,774050,All
+2007,Pierce County,786911,All
+2008,Pierce County,794330,All
+2009,Pierce County,796900,All
+2010,Pierce County,795225,All
+2011,Pierce County,806190,All
+2012,Pierce County,814214,All
+2013,Pierce County,823032,All
+2014,Pierce County,834544,All
+2015,Pierce County,845324,All
+2016,Pierce County,862608,All
+2017,Pierce County,877920,All
+2018,Pierce County,891661,All
+2019,Pierce County,905841,All
+2020,Pierce County,920393,All
+2021,Pierce County,928200,All
+2022,Pierce County,937400,All
+1990,Snohomish County,465628,All
+1991,Snohomish County,488075,All
+1992,Snohomish County,496461,All
+1993,Snohomish County,507336,All
+1994,Snohomish County,519960,All
+1995,Snohomish County,531704,All
+1996,Snohomish County,542738,All
+1997,Snohomish County,554585,All
+1998,Snohomish County,570896,All
+1999,Snohomish County,589266,All
+2000,Snohomish County,606024,All
+2001,Snohomish County,617864,All
+2002,Snohomish County,629287,All
+2003,Snohomish County,639942,All
+2004,Snohomish County,648778,All
+2005,Snohomish County,661346,All
+2006,Snohomish County,676126,All
+2007,Snohomish County,689314,All
+2008,Snohomish County,699330,All
+2009,Snohomish County,705894,All
+2010,Snohomish County,713335,All
+2011,Snohomish County,718874,All
+2012,Snohomish County,725545,All
+2013,Snohomish County,735288,All
+2014,Snohomish County,746184,All
+2015,Snohomish County,760430,All
+2016,Snohomish County,773899,All
+2017,Snohomish County,787096,All
+2018,Snohomish County,801223,All
+2019,Snohomish County,814419,All
+2020,Snohomish County,827957,All
+2021,Snohomish County,837800,All
+2022,Snohomish County,847300,All
+1990,Region,2748867,All
+1991,Region,2833057,All
+1992,Region,2880190,All
+1993,Region,2929612,All
+1994,Region,2978720,All
+1995,Region,3024537,All
+1996,Region,3058048,All
+1997,Region,3103012,All
+1998,Region,3159992,All
+1999,Region,3219841,All
+2000,Region,3275857,All
+2001,Region,3316557,All
+2002,Region,3364581,All
+2003,Region,3399436,All
+2004,Region,3434039,All
+2005,Region,3473083,All
+2006,Region,3539434,All
+2007,Region,3594799,All
+2008,Region,3634690,All
+2009,Region,3663248,All
+2010,Region,3690942,All
+2011,Region,3721172,All
+2012,Region,3749421,All
+2013,Region,3795087,All
+2014,Region,3857726,All
+2015,Region,3926769,All
+2016,Region,4018936,All
+2017,Region,4080194,All
+2018,Region,4149624,All
+2019,Region,4220357,All
+2020,Region,4293636,All
+2021,Region,4330750,All
+2022,Region,4383300,All
+1990,King County,994048,Incorporated
+1991,King County,1020277,Incorporated
+1992,King County,1035995,Incorporated
+1993,King County,1085719,Incorporated
+1994,King County,1109385,Incorporated
+1995,King County,1134414,Incorporated
+1996,King County,1211610,Incorporated
+1997,King County,1230356,Incorporated
+1998,King County,1287014,Incorporated
+1999,King County,1329107,Incorporated
+2000,King County,1387812,Incorporated
+2001,King County,1404829,Incorporated
+2002,King County,1427263,Incorporated
+2003,King County,1436622,Incorporated
+2004,King County,1443623,Incorporated
+2005,King County,1455474,Incorporated
+2006,King County,1481836,Incorporated
+2007,King County,1508783,Incorporated
+2008,King County,1559103,Incorporated
+2009,King County,1580145,Incorporated
+2010,King County,1606249,Incorporated
+2011,King County,1657331,Incorporated
+2012,King County,1699863,Incorporated
+2013,King County,1731333,Incorporated
+2014,King County,1774025,Incorporated
+2015,King County,1813441,Incorporated
+2016,King County,1879100,Incorporated
+2017,King County,1908353,Incorporated
+2018,King County,1944423,Incorporated
+2019,King County,1982778,Incorporated
+2020,King County,2023409,Incorporated
+2021,King County,2039665,Incorporated
+2022,King County,2069540,Incorporated
+1990,Kitsap County,51055,Incorporated
+1991,Kitsap County,61803,Incorporated
+1992,Kitsap County,62556,Incorporated
+1993,Kitsap County,63578,Incorporated
+1994,Kitsap County,64354,Incorporated
+1995,Kitsap County,66713,Incorporated
+1996,Kitsap County,67801,Incorporated
+1997,Kitsap County,68777,Incorporated
+1998,Kitsap County,69722,Incorporated
+1999,Kitsap County,71157,Incorporated
+2000,Kitsap County,72073,Incorporated
+2001,Kitsap County,73267,Incorporated
+2002,Kitsap County,74050,Incorporated
+2003,Kitsap County,75332,Incorporated
+2004,Kitsap County,75136,Incorporated
+2005,Kitsap County,72670,Incorporated
+2006,Kitsap County,74657,Incorporated
+2007,Kitsap County,76131,Incorporated
+2008,Kitsap County,77865,Incorporated
+2009,Kitsap County,78836,Incorporated
+2010,Kitsap County,81111,Incorporated
+2011,Kitsap County,82345,Incorporated
+2012,Kitsap County,84032,Incorporated
+2013,Kitsap County,84153,Incorporated
+2014,Kitsap County,85451,Incorporated
+2015,Kitsap County,87412,Incorporated
+2016,Kitsap County,89618,Incorporated
+2017,Kitsap County,90591,Incorporated
+2018,Kitsap County,92710,Incorporated
+2019,Kitsap County,94324,Incorporated
+2020,Kitsap County,95892,Incorporated
+2021,Kitsap County,96860,Incorporated
+2022,Kitsap County,98860,Incorporated
+1990,Pierce County,246524,Incorporated
+1991,Pierce County,250066,Incorporated
+1992,Pierce County,254403,Incorporated
+1993,Pierce County,258410,Incorporated
+1994,Pierce County,262284,Incorporated
+1995,Pierce County,265721,Incorporated
+1996,Pierce County,363093,Incorporated
+1997,Pierce County,367843,Incorporated
+1998,Pierce County,374074,Incorporated
+1999,Pierce County,379320,Incorporated
+2000,Pierce County,385459,Incorporated
+2001,Pierce County,388498,Incorporated
+2002,Pierce County,394188,Incorporated
+2003,Pierce County,398332,Incorporated
+2004,Pierce County,401658,Incorporated
+2005,Pierce County,406460,Incorporated
+2006,Pierce County,414678,Incorporated
+2007,Pierce County,420426,Incorporated
+2008,Pierce County,423078,Incorporated
+2009,Pierce County,426175,Incorporated
+2010,Pierce County,428487,Incorporated
+2011,Pierce County,431421,Incorporated
+2012,Pierce County,435013,Incorporated
+2013,Pierce County,440387,Incorporated
+2014,Pierce County,445323,Incorporated
+2015,Pierce County,451689,Incorporated
+2016,Pierce County,462547,Incorporated
+2017,Pierce County,470732,Incorporated
+2018,Pierce County,475964,Incorporated
+2019,Pierce County,482145,Incorporated
+2020,Pierce County,490145,Incorporated
+2021,Pierce County,493065,Incorporated
+2022,Pierce County,496600,Incorporated
+1990,Snohomish County,205832,Incorporated
+1991,Snohomish County,222020,Incorporated
+1992,Snohomish County,228283,Incorporated
+1993,Snohomish County,246562,Incorporated
+1994,Snohomish County,253779,Incorporated
+1995,Snohomish County,260065,Incorporated
+1996,Snohomish County,272417,Incorporated
+1997,Snohomish County,281191,Incorporated
+1998,Snohomish County,294999,Incorporated
+1999,Snohomish County,302756,Incorporated
+2000,Snohomish County,314882,Incorporated
+2001,Snohomish County,325027,Incorporated
+2002,Snohomish County,329032,Incorporated
+2003,Snohomish County,333163,Incorporated
+2004,Snohomish County,335309,Incorporated
+2005,Snohomish County,340862,Incorporated
+2006,Snohomish County,355994,Incorporated
+2007,Snohomish County,368259,Incorporated
+2008,Snohomish County,372948,Incorporated
+2009,Snohomish County,376418,Incorporated
+2010,Snohomish County,411043,Incorporated
+2011,Snohomish County,412204,Incorporated
+2012,Snohomish County,413850,Incorporated
+2013,Snohomish County,417170,Incorporated
+2014,Snohomish County,419279,Incorporated
+2015,Snohomish County,426599,Incorporated
+2016,Snohomish County,433284,Incorporated
+2017,Snohomish County,439317,Incorporated
+2018,Snohomish County,446188,Incorporated
+2019,Snohomish County,452314,Incorporated
+2020,Snohomish County,460241,Incorporated
+2021,Snohomish County,466500,Incorporated
+2022,Snohomish County,475385,Incorporated
+1990,Region,1497459,Incorporated
+1991,Region,1554166,Incorporated
+1992,Region,1581237,Incorporated
+1993,Region,1654269,Incorporated
+1994,Region,1689802,Incorporated
+1995,Region,1726913,Incorporated
+1996,Region,1914921,Incorporated
+1997,Region,1948167,Incorporated
+1998,Region,2025809,Incorporated
+1999,Region,2082340,Incorporated
+2000,Region,2160226,Incorporated
+2001,Region,2191621,Incorporated
+2002,Region,2224533,Incorporated
+2003,Region,2243449,Incorporated
+2004,Region,2255726,Incorporated
+2005,Region,2275466,Incorporated
+2006,Region,2327165,Incorporated
+2007,Region,2373599,Incorporated
+2008,Region,2432994,Incorporated
+2009,Region,2461574,Incorporated
+2010,Region,2526890,Incorporated
+2011,Region,2583301,Incorporated
+2012,Region,2632758,Incorporated
+2013,Region,2673043,Incorporated
+2014,Region,2724078,Incorporated
+2015,Region,2779141,Incorporated
+2016,Region,2864549,Incorporated
+2017,Region,2908993,Incorporated
+2018,Region,2959285,Incorporated
+2019,Region,3011561,Incorporated
+2020,Region,3069687,Incorporated
+2021,Region,3096090,Incorporated
+2022,Region,3140385,Incorporated
+1990,King County,513257,Unincorporated
+1991,King County,529714,Unincorporated
+1992,King County,535002,Unincorporated
+1993,King County,504884,Unincorporated
+1994,King County,500144,Unincorporated
+1995,King County,490827,Unincorporated
+1996,King County,428639,Unincorporated
+1997,King County,428750,Unincorporated
+1998,King County,399252,Unincorporated
+1999,King County,383015,Unincorporated
+2000,King County,349234,Unincorporated
+2001,King County,350658,Unincorporated
+2002,King County,350251,Unincorporated
+2003,King County,351460,Unincorporated
+2004,King County,357160,Unincorporated
+2005,King County,359525,Unincorporated
+2006,King County,363373,Unincorporated
+2007,King County,362315,Unincorporated
+2008,King County,332022,Unincorporated
+2009,King County,329060,Unincorporated
+2010,King County,325000,Unincorporated
+2011,King County,288355,Unincorporated
+2012,King County,256892,Unincorporated
+2013,King County,252217,Unincorporated
+2014,King County,247002,Unincorporated
+2015,King County,248540,Unincorporated
+2016,King County,239858,Unincorporated
+2017,King County,241557,Unincorporated
+2018,King County,243037,Unincorporated
+2019,King County,244977,Unincorporated
+2020,King County,246266,Unincorporated
+2021,King County,247385,Unincorporated
+2022,King County,248160,Unincorporated
+1990,Kitsap County,138676,Unincorporated
+1991,Kitsap County,135123,Unincorporated
+1992,Kitsap County,139557,Unincorporated
+1993,Kitsap County,144398,Unincorporated
+1994,Kitsap County,148075,Unincorporated
+1995,Kitsap County,151595,Unincorporated
+1996,Kitsap County,154048,Unincorporated
+1997,Kitsap County,156474,Unincorporated
+1998,Kitsap County,157457,Unincorporated
+1999,Kitsap County,158412,Unincorporated
+2000,Kitsap County,159896,Unincorporated
+2001,Kitsap County,160651,Unincorporated
+2002,Kitsap County,162606,Unincorporated
+2003,Kitsap County,164111,Unincorporated
+2004,Kitsap County,165641,Unincorporated
+2005,Kitsap County,167149,Unincorporated
+2006,Kitsap County,169392,Unincorporated
+2007,Kitsap County,171345,Unincorporated
+2008,Kitsap County,172040,Unincorporated
+2009,Kitsap County,172413,Unincorporated
+2010,Kitsap County,170022,Unincorporated
+2011,Kitsap County,168077,Unincorporated
+2012,Kitsap County,168875,Unincorporated
+2013,Kitsap County,169064,Unincorporated
+2014,Kitsap County,170520,Unincorporated
+2015,Kitsap County,171622,Unincorporated
+2016,Kitsap County,173853,Unincorporated
+2017,Kitsap County,174677,Unincorporated
+2018,Kitsap County,176570,Unincorporated
+2019,Kitsap County,178018,Unincorporated
+2020,Kitsap County,179719,Unincorporated
+2021,Kitsap County,180840,Unincorporated
+2022,Kitsap County,182040,Unincorporated
+1990,Pierce County,339679,Unincorporated
+1991,Pierce County,347999,Unincorporated
+1992,Pierce County,356216,Unincorporated
+1993,Pierce County,365287,Unincorporated
+1994,Pierce County,374518,Unincorporated
+1995,Pierce County,383563,Unincorporated
+1996,Pierce County,290119,Unincorporated
+1997,Pierce County,296227,Unincorporated
+1998,Pierce County,301577,Unincorporated
+1999,Pierce County,309564,Unincorporated
+2000,Pierce County,315359,Unincorporated
+2001,Pierce County,320790,Unincorporated
+2002,Pierce County,326936,Unincorporated
+2003,Pierce County,333637,Unincorporated
+2004,Pierce County,342043,Unincorporated
+2005,Pierce County,350459,Unincorporated
+2006,Pierce County,359372,Unincorporated
+2007,Pierce County,366485,Unincorporated
+2008,Pierce County,371252,Unincorporated
+2009,Pierce County,370725,Unincorporated
+2010,Pierce County,366738,Unincorporated
+2011,Pierce County,374769,Unincorporated
+2012,Pierce County,379201,Unincorporated
+2013,Pierce County,382645,Unincorporated
+2014,Pierce County,389221,Unincorporated
+2015,Pierce County,393635,Unincorporated
+2016,Pierce County,400061,Unincorporated
+2017,Pierce County,407188,Unincorporated
+2018,Pierce County,415697,Unincorporated
+2019,Pierce County,423696,Unincorporated
+2020,Pierce County,430248,Unincorporated
+2021,Pierce County,435135,Unincorporated
+2022,Pierce County,440800,Unincorporated
+1990,Snohomish County,259796,Unincorporated
+1991,Snohomish County,266055,Unincorporated
+1992,Snohomish County,268178,Unincorporated
+1993,Snohomish County,260774,Unincorporated
+1994,Snohomish County,266181,Unincorporated
+1995,Snohomish County,271639,Unincorporated
+1996,Snohomish County,270321,Unincorporated
+1997,Snohomish County,273394,Unincorporated
+1998,Snohomish County,275897,Unincorporated
+1999,Snohomish County,286510,Unincorporated
+2000,Snohomish County,291142,Unincorporated
+2001,Snohomish County,292837,Unincorporated
+2002,Snohomish County,300255,Unincorporated
+2003,Snohomish County,306779,Unincorporated
+2004,Snohomish County,313469,Unincorporated
+2005,Snohomish County,320484,Unincorporated
+2006,Snohomish County,320132,Unincorporated
+2007,Snohomish County,321055,Unincorporated
+2008,Snohomish County,326382,Unincorporated
+2009,Snohomish County,329476,Unincorporated
+2010,Snohomish County,302292,Unincorporated
+2011,Snohomish County,306670,Unincorporated
+2012,Snohomish County,311695,Unincorporated
+2013,Snohomish County,318118,Unincorporated
+2014,Snohomish County,326905,Unincorporated
+2015,Snohomish County,333831,Unincorporated
+2016,Snohomish County,340615,Unincorporated
+2017,Snohomish County,347779,Unincorporated
+2018,Snohomish County,355035,Unincorporated
+2019,Snohomish County,362105,Unincorporated
+2020,Snohomish County,367716,Unincorporated
+2021,Snohomish County,371300,Unincorporated
+2022,Snohomish County,371915,Unincorporated
+1990,Region,1251408,Unincorporated
+1991,Region,1278891,Unincorporated
+1992,Region,1298953,Unincorporated
+1993,Region,1275343,Unincorporated
+1994,Region,1288918,Unincorporated
+1995,Region,1297624,Unincorporated
+1996,Region,1143127,Unincorporated
+1997,Region,1154845,Unincorporated
+1998,Region,1134183,Unincorporated
+1999,Region,1137501,Unincorporated
+2000,Region,1115631,Unincorporated
+2001,Region,1124936,Unincorporated
+2002,Region,1140048,Unincorporated
+2003,Region,1155987,Unincorporated
+2004,Region,1178313,Unincorporated
+2005,Region,1197617,Unincorporated
+2006,Region,1212269,Unincorporated
+2007,Region,1221200,Unincorporated
+2008,Region,1201696,Unincorporated
+2009,Region,1201674,Unincorporated
+2010,Region,1164052,Unincorporated
+2011,Region,1137871,Unincorporated
+2012,Region,1116663,Unincorporated
+2013,Region,1122044,Unincorporated
+2014,Region,1133648,Unincorporated
+2015,Region,1147628,Unincorporated
+2016,Region,1154387,Unincorporated
+2017,Region,1171201,Unincorporated
+2018,Region,1190339,Unincorporated
+2019,Region,1208796,Unincorporated
+2020,Region,1223949,Unincorporated
+2021,Region,1234660,Unincorporated
+2022,Region,1242915,Unincorporated
